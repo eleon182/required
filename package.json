@@ -1,0 +1,16 @@
+{
+  "name": "required",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eleon182/required.git"
+  },
+  "description": "Required",
+  "main": "required.js",
+  "author": "Esteban Leon",
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^4.8.2",
+    "require-dir": "^0.3.0"
+  }
+}
