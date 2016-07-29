@@ -1,1 +1,3 @@
-module.exports = require('./required.js');
+module.exports = {
+    alerts: null
+}
