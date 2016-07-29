@@ -1,4 +1,3 @@
 #required
 
-TODO:
-global require module
+Global require module
