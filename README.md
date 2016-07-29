@@ -1,4 +1,4 @@
-#OS level alerts
+#required
 
 TODO:
-build out an alert system from node.js that will submit an OS level alert
+global require module
